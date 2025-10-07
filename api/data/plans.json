@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Básico",
+    "monthly": 49900,
+    "yearly": 42400,
+    "features": [
+      "Sala de pesas ilimitada",
+      "Rutina inicial + chequeo"
+    ]
+  },
+  {
+    "name": "Pro",
+    "monthly": 74900,
+    "yearly": 63700,
+    "features": [
+      "Todo del Básico",
+      "4 clases grupales/mes",
+      "Evaluación mensual"
+    ]
+  },
+  {
+    "name": "Full",
+    "monthly": 119900,
+    "yearly": 101900,
+    "features": [
+      "Todo del Pro",
+      "Plan nutricional",
+      "Acompañamiento 1:1"
+    ]
+  },
+  {
+    "name": "Estudiante",
+    "monthly": 39900,
+    "yearly": 33900,
+    "features": [
+      "Descuento especial",
+      "Acceso total en horarios valle"
+    ]
+  }
+]

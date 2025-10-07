@@ -1,0 +1,62 @@
+[
+  {
+    "name": "HIIT",
+    "tag": "cardio",
+    "desc": "30 min – intensivo"
+  },
+  {
+    "name": "Funcional",
+    "tag": "fuerza",
+    "desc": "movilidad y core"
+  },
+  {
+    "name": "Spinning",
+    "tag": "cardio",
+    "desc": "resistencia"
+  },
+  {
+    "name": "Power Yoga",
+    "tag": "movilidad",
+    "desc": "fuerza + flexibilidad"
+  },
+  {
+    "name": "Peso Libre",
+    "tag": "fuerza",
+    "desc": "técnica de básicos"
+  },
+  {
+    "name": "Stretch",
+    "tag": "movilidad",
+    "desc": "descarga y respiración"
+  },
+  {
+    "name": "Box Cardio",
+    "tag": "cardio",
+    "desc": "saco + saltos"
+  },
+  {
+    "name": "Levant. Olímpico",
+    "tag": "fuerza",
+    "desc": "snatch/clean"
+  },
+  {
+    "name": "Calistenia",
+    "tag": "fuerza",
+    "desc": "control corporal y progresiones"
+  },
+  {
+    "name": "TRX",
+    "tag": "fuerza",
+    "desc": "suspensión y core"
+  },
+  {
+    "name": "Zumba",
+    "tag": "cardio",
+    "desc": "baile y quema calórica"
+  },
+  {
+    "name": "Pilates Mat",
+    "tag": "movilidad",
+    "desc": "estabilidad y respiración"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "dia": "Lunes",
+    "hora": "06:00",
+    "clase": "HIIT",
+    "coach": "Carlos"
+  },
+  {
+    "dia": "Lunes",
+    "hora": "08:00",
+    "clase": "TRX",
+    "coach": "Diego"
+  },
+  {
+    "dia": "Lunes",
+    "hora": "19:00",
+    "clase": "Power Yoga",
+    "coach": "Andrea"
+  },
+  {
+    "dia": "Martes",
+    "hora": "07:00",
+    "clase": "Spinning",
+    "coach": "Lina"
+  },
+  {
+    "dia": "Martes",
+    "hora": "18:00",
+    "clase": "Funcional",
+    "coach": "Carlos"
+  },
+  {
+    "dia": "Martes",
+    "hora": "20:00",
+    "clase": "Zumba",
+    "coach": "Valeria"
+  },
+  {
+    "dia": "Miércoles",
+    "hora": "06:00",
+    "clase": "Peso Libre",
+    "coach": "Lina"
+  },
+  {
+    "dia": "Miércoles",
+    "hora": "19:00",
+    "clase": "Box Cardio",
+    "coach": "Carlos"
+  },
+  {
+    "dia": "Jueves",
+    "hora": "07:00",
+    "clase": "Levant. Olímpico",
+    "coach": "Lina"
+  },
+  {
+    "dia": "Jueves",
+    "hora": "17:00",
+    "clase": "Pilates Mat",
+    "coach": "Valeria"
+  },
+  {
+    "dia": "Jueves",
+    "hora": "18:00",
+    "clase": "Stretch",
+    "coach": "Andrea"
+  },
+  {
+    "dia": "Viernes",
+    "hora": "06:00",
+    "clase": "HIIT",
+    "coach": "Carlos"
+  },
+  {
+    "dia": "Viernes",
+    "hora": "19:00",
+    "clase": "Calistenia",
+    "coach": "Diego"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "09:00",
+    "clase": "Funcional",
+    "coach": "Carlos"
+  },
+  {
+    "dia": "Sábado",
+    "hora": "10:30",
+    "clase": "Spinning",
+    "coach": "Lina"
+  },
+  {
+    "dia": "Domingo",
+    "hora": "09:00",
+    "clase": "Power Yoga",
+    "coach": "Andrea"
+  }
+]
